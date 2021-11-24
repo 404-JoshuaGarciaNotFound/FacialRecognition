@@ -1,0 +1,6 @@
+This dataset contains 11 different characters from the office in the characters folder.
+Each folder contains 10 images of each character.
+
+In the solutions folder it contains both the characters and the TestFiles in their correct corresponding folders
+
+In the TestFiles folderr it contains photos of the characters in the office
