@@ -1,0 +1,10 @@
+This dataset contains 8 characters from the DC universe
+Alfred: From the series Gotham 
+Aquaman: From the film Aquaman
+HarleyQuinn: From the film Suicide Squad
+Joker: From the film Joker
+LexLuthor: from the film Justice League
+Supergirl: from the series Supergirl
+Superman: from the film Superman
+WonderWoman: from the film wonder woman
+

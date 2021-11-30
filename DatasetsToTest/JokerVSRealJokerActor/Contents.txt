@@ -1,0 +1,3 @@
+This dataset contains 26 images of the actor Arthur Fleck.
+13 images are of him playing the joker in the film Joker
+The other 13 images are of Arthur Fleck without any makeup.
