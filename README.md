@@ -1,2 +1,3 @@
-# cogs118bProj
-A program that is able to perform facial recognition using K-Means and PCA
+## Facial recognition with PCA and K-Means
+
+![main](https://ibb.co/fQNL3tB)
