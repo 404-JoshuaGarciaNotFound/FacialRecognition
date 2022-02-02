@@ -1,5 +1,3 @@
-## Facial recognition with PCA and K-Means
-
 ![1](https://i.postimg.cc/xC0xtkP0/Final-Presentation.jpg)
 ![2](https://i.postimg.cc/JzN5vr0t/Final-Presentation-1.jpg)
 ![3](https://i.postimg.cc/VvX2hyCw/Final-Presentation-3.jpg)
